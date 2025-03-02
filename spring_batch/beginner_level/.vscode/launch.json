@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BeginnerApplication<beginner>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fdrtec.batch.beginner.BeginnerApplication",
+            "projectName": "beginner",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
