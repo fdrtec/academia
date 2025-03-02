@@ -1,3 +1,5 @@
-# Academia
+# Git Academia Dev
 
-Espaço para criar projetos afim de testar os conhecimentos adquiridos
+Espaço para manter histórico de projetos criados conhecimentos adquiridos através de treinamenos especificos.
+- Spring batch;
+- Certificação Java;
