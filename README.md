@@ -1,3 +1,3 @@
 # Academia
 
-Espaço para criar projetos para testar conhecimentos adquiridos
+Espaço para criar projetos afim de testar os conhecimentos adquiridos
